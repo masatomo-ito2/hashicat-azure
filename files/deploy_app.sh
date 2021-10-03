@@ -5,6 +5,7 @@
 cat << EOM > /var/www/html/index.html
 <html>
   <head><title>Meow!</title></head>
+  <meta charset="utf-8"/>
   <body>
   <div style="width:800px;margin: 0 auto">
 
